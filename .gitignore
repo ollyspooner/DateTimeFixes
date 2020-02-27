@@ -1,0 +1,5 @@
+deployment/
+temp/
+*.mpr.lock
+*.bak
+*.launch

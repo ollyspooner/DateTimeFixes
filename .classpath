@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="javasource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/Mendix/7.23.7.55882/runtime/bundles/com.mendix.json.jar"/><classpathentry kind="lib" path="C:/Program Files/Mendix/7.23.7.55882/runtime/bundles/com.mendix.logging-api.jar"/><classpathentry kind="lib" path="C:/Program Files/Mendix/7.23.7.55882/runtime/bundles/com.mendix.m2ee-api.jar"/><classpathentry kind="lib" path="C:/Program Files/Mendix/7.23.7.55882/runtime/bundles/com.mendix.public-api.jar"/><classpathentry kind="lib" path="C:/Program Files/Mendix/7.23.7.55882/runtime/bundles/javax.servlet-api.servlet.jar"/>
+	<classpathentry kind="lib" path="userlib/junit-4.11.jar"/><classpathentry kind="lib" path="userlib/org.apache.commons.io-2.3.0.jar"/><classpathentry kind="lib" path="userlib/org.apache.commons.lang3.jar"/><classpathentry kind="lib" path="userlib/org.apache.httpcomponents.httpclient_4.4.1.jar"/><classpathentry kind="lib" path="userlib/org.apache.httpcomponents.httpcore_4.4.1.jar"/>
+	<classpathentry kind="output" path="deployment/run/bin"/>
+</classpath>
